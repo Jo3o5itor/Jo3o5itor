@@ -1,4 +1,5 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0&height=120&section=header"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jo3o5itor&label=Profile%20views&color=0e75b6&style=flat" alt="jo3o5itor" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?theme=ambient_gradient&hide&size=35&center=true&vCenter=true&width=1000&lines=Olá,Sou+Um+Estudante+de+T.I;Focado+na+Area+de+Banco+de+Dados;Seja+Bem-Vindo!;+:%29)](https://git.io/typing-svg)
 
