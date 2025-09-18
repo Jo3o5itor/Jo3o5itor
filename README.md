@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xyms6&label=Profile%20views&color=0e75b6&style=flat" alt="xyms6" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?theme=ambient_gradient&hide&size=35&center=true&vCenter=true&width=1000&lines=Olá,Sou+Um+Estudante+de+T.I;Focado+na+Area+de+Banco+de+Dados;Seja+Bem-Vindo!;+:%29)]
-
+(https://git.io/typing-svg)
 <h1 align="center">✨ Prazer me chamo João Vitor de Farias Guimarães ✨</h1>
 <h3 align="center">Um aluno de DEV do Senai</h3>
 
