@@ -1,7 +1,7 @@
-👋 Olá, eu sou João Vitor (Jo3o5itor)!
-Estudante de tecnologia | Apaixonado por desenvolvimento web e soluções criativas 💡 
+<h1 align="center">Prazer me chamo João Vitor de Farias Guimarães</h1>
+<h3 align="center">Um aluno de DEV do Senai</h3>
 
-Bem-vindo ao meu perfil! Aqui você encontrará meus projetos, contribuições e um pouco da minha jornada no mundo da programação. Estou sempre em busca de aprender coisas novas e colaborar com a comunidade.
+<h4 align="center">Bem-vindo ao meu perfil! Aqui você encontrará meus projetos, contribuições e um pouco da minha jornada no mundo da programação. Estou sempre em busca de aprender coisas novas e colaborar com a comunidade.</h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jo3o5itor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaovitor.guimaraes741@gmail.com) 
