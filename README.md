@@ -1,4 +1,4 @@
-<h1 align="center">Prazer me chamo João Vitor de Farias Guimarães</h1>
+<h1 align="center">✨ Prazer me chamo João Vitor de Farias Guimarães ✨</h1>
 <h3 align="center">Um aluno de DEV do Senai</h3>
 
 <h4 align="center">Bem-vindo ao meu perfil! Aqui você encontrará meus projetos, contribuições e um pouco da minha jornada no mundo da programação. Estou sempre em busca de aprender coisas novas e colaborar com a comunidade.</h4>
